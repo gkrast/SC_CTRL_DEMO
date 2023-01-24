@@ -1,0 +1,46 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+__vm/.SC_CONTROL.vsarduino.h
+__vm/Compile.vmps.xml
+__vm/Configuration.Debug.vmps.xml
+__vm/Upload.vmps.xml
+Debug/board.buildinfo
+Debug/SC_CONTROL.bin
+Debug/SC_CONTROL.elf
+Debug/SC_CONTROL.ino.bin
+Debug/SC_CONTROL.ino.elf
+Debug/SC_CONTROL.ino.map
+Debug/SC_CONTROL.map
+SC_CONTROL.vcxproj
+SC_CONTROL.vcxproj.filters
+SC_CONTROL.vcxproj.user
