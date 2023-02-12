@@ -5,7 +5,7 @@ myLCD LCD;
 //Create the display object
 SSD1306Wire display(0x3c, SDA, SCL);
 
-bool lcd_orientation_normal;
+bool lcd_orientation_normal=true;
 
 /// <summary>
 /// Initializations of the LCD library
